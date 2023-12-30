@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/woodnwiings-frontend/static/css/main.de05e3b8.css",
+    "main.js": "/woodnwiings-frontend/static/js/main.c0aeaf32.js",
+    "static/js/787.f5dc2970.chunk.js": "/woodnwiings-frontend/static/js/787.f5dc2970.chunk.js",
+    "index.html": "/woodnwiings-frontend/index.html",
+    "main.de05e3b8.css.map": "/woodnwiings-frontend/static/css/main.de05e3b8.css.map",
+    "main.c0aeaf32.js.map": "/woodnwiings-frontend/static/js/main.c0aeaf32.js.map",
+    "787.f5dc2970.chunk.js.map": "/woodnwiings-frontend/static/js/787.f5dc2970.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de05e3b8.css",
+    "static/js/main.c0aeaf32.js"
+  ]
+}
