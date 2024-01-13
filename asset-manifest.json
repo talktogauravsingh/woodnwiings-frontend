@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/woodnwiings-frontend/static/css/main.de05e3b8.css",
-    "main.js": "/woodnwiings-frontend/static/js/main.c0aeaf32.js",
-    "static/js/787.f5dc2970.chunk.js": "/woodnwiings-frontend/static/js/787.f5dc2970.chunk.js",
+    "main.css": "/woodnwiings-frontend/static/css/main.7285f28a.css",
+    "main.js": "/woodnwiings-frontend/static/js/main.a73f4662.js",
+    "static/media/get_started_banner.png": "/woodnwiings-frontend/static/media/get_started_banner.6a24abf3175f34b896b4.png",
+    "static/media/heroLogo-removebg-preview.png": "/woodnwiings-frontend/static/media/heroLogo-removebg-preview.506e147a8712ed4c865c.png",
     "index.html": "/woodnwiings-frontend/index.html",
-    "main.de05e3b8.css.map": "/woodnwiings-frontend/static/css/main.de05e3b8.css.map",
-    "main.c0aeaf32.js.map": "/woodnwiings-frontend/static/js/main.c0aeaf32.js.map",
-    "787.f5dc2970.chunk.js.map": "/woodnwiings-frontend/static/js/787.f5dc2970.chunk.js.map"
+    "main.7285f28a.css.map": "/woodnwiings-frontend/static/css/main.7285f28a.css.map",
+    "main.a73f4662.js.map": "/woodnwiings-frontend/static/js/main.a73f4662.js.map"
   },
   "entrypoints": [
-    "static/css/main.de05e3b8.css",
-    "static/js/main.c0aeaf32.js"
+    "static/css/main.7285f28a.css",
+    "static/js/main.a73f4662.js"
   ]
 }
